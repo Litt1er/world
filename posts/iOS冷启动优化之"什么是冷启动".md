@@ -11,6 +11,3 @@ publish_date: 2023-09-20
 
 ### 冷启动流程 
 > 参考dyld4
-
-![3ed0e092bb36310ccef85118109dd12f.png](3ed0e092bb36310ccef85118109dd12f.png "3ed0e092bb36310ccef85118109dd12f.png")
-
